@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/diosmosis/co-grunt.svg?branch=master)](https://travis-ci.org/diosmosis/co-grunt)
+
 # co-grunt
 
 ES6 generator support for grunt. Write async tasks easily w/ 'yield'.
