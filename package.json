@@ -1,0 +1,35 @@
+{
+  "name": "co-grunt",
+  "version": "1.0.0",
+  "description": "ES6 generator support for grunt. Write async tasks easily w/ 'yield'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diosmosis/co-grunt.git"
+  },
+  "keywords": [
+    "grunt",
+    "generators",
+    "es6",
+    "yield",
+    "async",
+    "task"
+  ],
+  "author": "diosmosis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diosmosis/co-grunt/issues"
+  },
+  "homepage": "https://github.com/diosmosis/co-grunt#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "co-mocha": "^1.1.2",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
