@@ -4,7 +4,7 @@
   "description": "ES6 generator support for grunt. Write async tasks easily w/ 'yield'.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha -R spec ./test/functional/co-grunt.spec.js"
   },
   "repository": {
     "type": "git",
@@ -30,6 +30,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "co": "^4.6.0"
+    "co": "^4.6.0",
+    "is-generator": "^1.0.3"
   }
 }

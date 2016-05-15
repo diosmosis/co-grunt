@@ -1,0 +1,18 @@
+Running "test1" task
+Entering generator task.
+First thunk
+Second thunk
+Finished generator task.
+
+Running "test2" task
+Entering test 2 generator. (no desc)
+First thunk
+Finished generator task.
+
+Running "test3" task
+Entering test 3. (normal)
+
+Running "test4" task
+Entering test 4. (normal)
+
+Done.
